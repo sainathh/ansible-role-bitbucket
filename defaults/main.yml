@@ -37,10 +37,10 @@ bitbucket_owner: "bitbucket"
 bitbucket_group: "bitbucket"
 
 # Bitbucket home directory.
-bitbucket_home: "/var/atlassian/application-data/bitbucket"
+bitbucket_home: "/home/centos/atlassian/application-data/bitbucket"
 
 # Bitbucket installation directory.
-bitbucket_catalina: "/opt/atlassian/bitbucket"
+bitbucket_catalina: "/home/centos/atlassian/bitbucket"
 
 # JVM minimal and maximum memory usage.
 bitbucket_jvm_minimum_memory: "1024m"
